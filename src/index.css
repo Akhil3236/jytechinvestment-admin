@@ -1,0 +1,11 @@
+@import "tailwindcss";
+@layer base {
+  body {
+    font-family: 'Poppins', sans-serif;
+  }
+}
+
+.ck-editor__editable {
+  min-height: 420px;
+  
+}
